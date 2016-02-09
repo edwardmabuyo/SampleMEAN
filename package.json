@@ -1,0 +1,23 @@
+{
+  "name": "samplemean",
+  "version": "1.0.0",
+  "description": "sampleMean",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwardmabuyo/SampleMEAN.git"
+  },
+  "author": "edward mabuyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwardmabuyo/SampleMEAN/issues"
+  },
+  "homepage": "https://github.com/edwardmabuyo/SampleMEAN#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  }
+}
