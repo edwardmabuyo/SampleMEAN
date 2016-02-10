@@ -11,9 +11,6 @@ function getToDoList(request, response)
 	};
 
 	response.send(data);
-	//response.writeHead(200, {'Content-Type': 'application/json'});
-	//response.write(JSON.stringify(data));
-    //response.end();
 }
 
 module.exports = 
